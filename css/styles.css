@@ -1,0 +1,136 @@
+body{
+  text-align: center;
+  background-color: #eeeeee;
+  margin: 0;
+  color: #40514E;
+font-family: 'Kanit', sans-serif;
+
+}
+
+.top-cloud{
+  position: relative;
+  left: 500px;
+  top: 50px;
+
+}
+hr{
+  display: none;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 200px;
+  top: 100px;
+}
+.web{
+  text-decoration: underline;
+}
+.in{
+  width: 40%;
+  position: relative;
+  margin: 0 auto;
+
+}
+.img{
+  width: 15%;
+
+}
+
+
+.int{
+  margin: 50px auto 0 auto;
+  color: #8675a9;
+  font-size: 7rem;
+  font-family: 'Bebas Neue', cursive;
+
+
+
+
+}
+p{
+
+  font-size: 18px;
+
+
+}
+h1{
+  color: #d54062;
+  font-family: 'Rowdies', cursive;
+
+}
+h2{
+  color: #d54062;
+}
+h3
+{
+  color: #d54062;
+}
+.shivam{
+  font-family: sans-serif;
+}
+.myimg{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+    margin-top: 30px;
+
+}
+
+.sub{
+  margin: 0;
+  font-size: 2.5rem;
+}
+.skills{
+    text-align: left;
+    width: 50%;
+    margin: 0 auto;
+    line-height: 2;
+}
+.img2{
+  float: right;
+  width: 25%;
+  margin-left: 30px;
+
+}
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #3498db;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+.profile{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.contactme{
+  margin-bottom: 100px;
+}
+.links{
+  background-color: #3cb0fd;
+  padding: 50px 0 20px 0;
+}
+.shivam{
+  color: white;
+  font-size: 15px;
+}
+a{
+  text-decoration: none;
+  margin:auto 10px;
+  font-size: 18px;
+  color: #40514E;
+  font-family: 'Kanit', sans-serif;
+}
+a:hover{
+  color: white;
+
+}
